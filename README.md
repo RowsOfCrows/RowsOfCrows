@@ -23,7 +23,7 @@ Experience coding in Python, Javascript, and C# in Unity3D.
 ![]<img src="https://github.com/RowsOfCrows/BreakReminder-for-Stardew-Valley/raw/main/.github/images/Stardew%20Mod%20Break%20Reminder%20Preview.png" width = 300>
 
 ##### Auto Keyboard Clicker
-<img src="https://github.com/RowsOfCrows/Auto-Keyboard-Clicker/images/preview.png">
+<img src="https://github.com/RowsOfCrows/Auto-Keyboard-Clicker/blob/master/images/preview.png">
 
 
 <!--
