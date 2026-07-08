@@ -11,7 +11,13 @@ Experience coding in Python, Javascript, and C# in Unity3D.
     - Enriches and embeds reddit links
     - Daily secheduled posts with relevant day information
     - Finds the source of an image
-<img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/Time_Command_Demo.png" width = 30%> <img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/calendar_demo.png" width = 30%> <img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/Reddit_Embed_demo.png" width = 30%> 
+    - Forwards messages from a voice text channel to a dedicated text channel by creating
+      a webhook with the users picture and name and the channel it was posted in originally
+<img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/Time_Command_Demo.png" width = 30%> <img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/calendar_demo.png" width = 30%> 
+<img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/Reddit_Embed_demo.png" width = 30%> <img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/dogchat_demo.png" width = 30%> 
+<img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/weather_wip_demo.png" width = 30%> 
+<img src="https://github.com/RowsOfCrows/DiscordBot/blob/main/.github/images/sourcefinder_demo.png" width = 30%> 
+
 #### Verification Bot
 <img src="" width = 300>
 
