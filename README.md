@@ -12,8 +12,8 @@ Experience coding in Python, Javascript, and C# in Unity3D.
 ### Verification Bot
 <img src="" width = 300>
 
-### VRChat Parameter Sync & Tool
-<img src="" width = 300>
+### [VRChat Parameter Sync](https://github.com/RowsOfCrows/SyncAvatarVRC)
+<img src="https://github.com/RowsOfCrows/SyncAvatarVRC/blob/main/showcase/SyncAvatar_remote_demo.gif" width = 55%> 
 
 ### [Break Reminder for Stardew Valley](https://github.com/RowsOfCrows/BreakReminder-for-Stardew-Valley)
 <img src="https://github.com/RowsOfCrows/BreakReminder-for-Stardew-Valley/raw/main/.github/images/Stardew%20Mod%20Break%20Reminder%20Preview.png" width = 300>
