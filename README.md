@@ -15,6 +15,9 @@ Experience coding in Python, Javascript, and C# in Unity3D.
 ### [VRChat Parameter Sync](https://github.com/RowsOfCrows/SyncAvatarVRC)
 <img src="https://raw.githubusercontent.com/RowsOfCrows/SyncAvatarVRC/main/showcase/SyncAvatar_remote_demo.gif" width = 55%> 
 
+### [Comic Sale Website](https://rowsofcrows.github.io/bgmj)
+<img src="https://github.com/RowsOfCrows/RowsOfCrows.github.io/blob/main/images/bmgj_showcase.gif" width = 35%>
+
 ### [Break Reminder for Stardew Valley](https://github.com/RowsOfCrows/BreakReminder-for-Stardew-Valley)
 <img src="https://github.com/RowsOfCrows/BreakReminder-for-Stardew-Valley/raw/main/.github/images/Stardew%20Mod%20Break%20Reminder%20Preview.png" width = 300>
 
