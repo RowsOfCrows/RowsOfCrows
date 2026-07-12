@@ -1,5 +1,5 @@
 # Welcome to my GitHub!
-Experience coding in Python, Javascript, and C# in Unity3D.
+Experience coding in Python, Javascript, and C# in Unity3D. CompTIA Security+ Certified.
 
 ## 🎮 Personal Development Projects:
 
