@@ -10,7 +10,7 @@ Experience coding in Python, Javascript, and C# in Unity3D. CompTIA Security+ Ce
 <img src="https://raw.githubusercontent.com/RowsOfCrows/DiscordBot/main/.github/images/sourcefinder_demo.png" width = 30%> 
 
 ### Verification Bot
-<img src="" width = 300>
+https://github.com/user-attachments/assets/fa084adc-e3ca-49db-b261-5ac29d382782
 
 ### [VRChat Parameter Sync](https://github.com/RowsOfCrows/SyncAvatarVRC)
 <img src="https://raw.githubusercontent.com/RowsOfCrows/SyncAvatarVRC/main/showcase/SyncAvatar_remote_demo.gif" width = 55%> 
